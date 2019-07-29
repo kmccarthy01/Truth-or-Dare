@@ -35,7 +35,7 @@ var chooseTruth=[
  "What's one of your toxic personality traits?",
  "What was the last thing you searched for on your phone web browser?",
  "Who is the last person you texted?",
- "What does your dream boy or girl look like?",
+ "What does your dream partner look like?",
  "What is the most illegal thing you’ve ever done?",
  "Do you prefer a bath or a shower? Why?",
  "Would you rather be caught picking your nose or picking a wedgie?",
